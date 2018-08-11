@@ -1,0 +1,6 @@
+sviluppatore ARTIST_00
+non testato su yahoo e hotmail
+se ci sono errori scrivetemelo
+versione utilizzata
+python 3.x
+canale youtube dove trovate il video: https://www.youtube.com/channel/UChn5ZJWFYhKZ6cwa0SPFpqw?view_as=subscriber
